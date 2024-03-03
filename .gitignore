@@ -1,0 +1,40 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+env_bak/
+ENV/
+env*
+.env
+venv*/
+.venv*/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data
+data/
+*.csv
+*.xls
+*.xlsx
+*.json
+*.h5
+*.sqlite
+*.db
+*.sql
+*.pkl
+
+# Logs and Temporary Files
+*.log
+*.csv
+*.out
+*.err
+
+# IDE
+.idea/
+.vscode/
