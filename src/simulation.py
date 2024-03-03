@@ -1,0 +1,1 @@
+"""Runs The simulation by instantiating the A agent and a world"""
